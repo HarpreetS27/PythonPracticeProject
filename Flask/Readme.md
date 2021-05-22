@@ -2,7 +2,7 @@
 
 #The Coding Blog is a blog made using Flask in python<br>
 
-#Technologies/Methodologies used:
+#Technologies/Methodologies used:<br><br>
 Python 3.9.2, Flask, SQLAlchemy, MySql WorkBench, Jinja Templating, Html, Bootstrap, Css, Flask-Mail, SMTPlib
 
 This Blog can serve as a base for anyone trying to make a blog for their content.<br>
